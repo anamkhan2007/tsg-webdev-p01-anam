@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="images/og-banner.png" alt="Anam Khan - Portfolio" width="100%" />
+<img src="screenshots/og-banner.png" alt="Anam Khan - Portfolio" width="100%" />
 
 <br/><br/>
 
