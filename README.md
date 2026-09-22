@@ -54,7 +54,7 @@ The site presents me as a professional web developer - showcasing my skills, pro
 
 ## Live Demo
 
-**URL:** https://anamkhan2007.github.io/tsg-webdev-p01-anamkhan
+**URL:** [https://anamkhan2007.github.io/tsg-webdev-p01-anamkhan](https://github.com/anamkhan2007/tsg-webdev-p01-anam.git)
 
 Tested and confirmed working on:
 - Mobile (360px, 480px)
